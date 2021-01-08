@@ -1,0 +1,43 @@
+*{
+    background-color: #f0f8ff;
+    
+}
+html{
+    height: 90%;
+}
+body{
+    height: 90%
+}
+h1{
+    height: 64%;
+    margin: 1% 0 .5% 0;
+    font-family: cursive;
+    font-size: 170%;
+    color: #9F58D8;
+    text-shadow:1px 0px 2px #eb00ff, -1px 0px 1px #eb00ff, 0px 1px 1px #eb00ff, 0px -1px 1px #eb00ff; 
+}
+p,h1{
+    width: 100%;
+    text-align: center;
+}
+p{
+    height: 33%;
+    margin: 0 0 2% 0 ;
+    font-size: 170%;
+    font-family: monospace;
+    color: darkcyan;
+    text-shadow:1px 0px 1px cyan, -1px 0px 1px cyan, 0px 1px 1px cyan, 0px -1px 1px cyan;
+}
+.head{
+    height: 10%;
+}
+#container{
+    width: 96%;
+    height: 85%;
+    margin: 1% 1.5% 0% 1.5%;
+    border: 2px solid cyan;
+    border-radius: 3%;
+    box-shadow: 3px 0px 6px cornflowerblue, -3px 0px 6px cornflowerblue, 0px 3px 6px cornflowerblue, 0px -3px 6px cornflowerblue;
+    overflow: hidden;
+    position: absolute;
+}
